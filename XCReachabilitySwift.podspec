@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'XCReachabilitySwift'
-  s.version      = '5.1.0'
+  s.version      = '5.1.0-xc14'
   s.module_name = 'Reachability'
   s.homepage     = 'https://github.com/ashleymills/Reachability.swift'
   s.authors      = {
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.tvos.deployment_target  = "9.0"
   s.source       =  {
     :git => 'https://github.com/beMappy/Reachability.swift.git',
-    :tag => 'v'+s.version.to_s
+    :tag => s.version.to_s
   }
   s.vendored_frameworks = 'Reachability.xcframework'
   s.framework    = 'SystemConfiguration'
