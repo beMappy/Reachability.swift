@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'XCReachabilitySwift'
-  s.version      = '5.1.0-xc14'
+  s.version      = '5.1.0-xc14-2'
   s.module_name = 'Reachability'
   s.homepage     = 'https://github.com/ashleymills/Reachability.swift'
   s.authors      = {
