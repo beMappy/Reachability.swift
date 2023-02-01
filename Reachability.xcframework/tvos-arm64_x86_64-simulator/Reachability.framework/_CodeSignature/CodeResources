@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Reachability-Swift.h</key>
 		<data>
-		HPpEDeW4E/MRUdeABemrbGBcOmQ=
+		hCJ7nUDL8OdwCz1nX54DuADGmJ0=
 		</data>
 		<key>Headers/Reachability.h</key>
 		<data>
@@ -14,55 +14,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		BLvbsaJTsn8SHauoofWmI72SU/0=
+		diCs63It/jqYfSTK87+ZKEeREJI=
 		</data>
 		<key>Modules/Reachability.swiftmodule/Project/arm64-apple-tvos-simulator.swiftsourceinfo</key>
 		<data>
-		ZThdPrt0y5qJU7RHu5mGsZs1WCk=
+		lbHbbvPn6tZ1D+3IrGM7qlWBc6A=
 		</data>
 		<key>Modules/Reachability.swiftmodule/Project/x86_64-apple-tvos-simulator.swiftsourceinfo</key>
 		<data>
-		z1Px70RHK197t6WefRUWBa4Vny8=
+		rETggcEdTNAN8S7xKyuHYTSfVAc=
 		</data>
 		<key>Modules/Reachability.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<data>
-		uMBIonM+dony39x/fRc0KcAhVIg=
+		1fNgbMQlEJOOOQ3adU3ZN8lW+1U=
 		</data>
 		<key>Modules/Reachability.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
-		xiFiv8ORWals4TDTWpDcnp4J0yg=
+		Gb9Iols8KSj2wjf2BQsRt+R2KDY=
 		</data>
 		<key>Modules/Reachability.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<data>
-		VbTFI05Bco/fWNMc1fSDppLdk7w=
+		e75YrBwzQWvpcyB82W/JyH8JB/s=
 		</data>
 		<key>Modules/Reachability.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
 		<data>
-		xiFiv8ORWals4TDTWpDcnp4J0yg=
+		Gb9Iols8KSj2wjf2BQsRt+R2KDY=
 		</data>
 		<key>Modules/Reachability.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		Wjq+X0N+vAgwez6TG2nhnnLa6RQ=
+		CKcmfXrQTfubD8jnscArtXb8T5k=
 		</data>
 		<key>Modules/Reachability.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<data>
-		uMBIonM+dony39x/fRc0KcAhVIg=
+		1fNgbMQlEJOOOQ3adU3ZN8lW+1U=
 		</data>
 		<key>Modules/Reachability.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
-		Phllri7imi3KbT9YOxDMu65v4Io=
+		b7oPghnS91evZ3dwPPYK68Vm6ws=
 		</data>
 		<key>Modules/Reachability.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<data>
-		OPKrUGwIrBB0+GAt6l8AoDA4Tng=
+		9p2jlh9dYuOOMIondoerUPhAdkQ=
 		</data>
 		<key>Modules/Reachability.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
 		<data>
-		Phllri7imi3KbT9YOxDMu65v4Io=
+		b7oPghnS91evZ3dwPPYK68Vm6ws=
 		</data>
 		<key>Modules/Reachability.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		NW3Wzp0YFEbeECxXmLTsyZO+THo=
+		ggzPXqOYsh3vqzLBGGDRxFyCQ9I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -75,11 +75,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HPpEDeW4E/MRUdeABemrbGBcOmQ=
+			hCJ7nUDL8OdwCz1nX54DuADGmJ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			S2vB7arhRuG7sUNUQ3htl745GaazGVd5Zec+eFg7Dp4=
+			jqLywGi8xUEzCXDfMYpE0eFrcMibte7KUnr5ci97KDY=
 			</data>
 		</dict>
 		<key>Headers/Reachability.h</key>
@@ -97,132 +97,132 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZThdPrt0y5qJU7RHu5mGsZs1WCk=
+			lbHbbvPn6tZ1D+3IrGM7qlWBc6A=
 			</data>
 			<key>hash2</key>
 			<data>
-			NCOnBLN+7k/npD9agL41ATMOsYBYO8rMNEZL7d/Y40g=
+			IfFzTFcMlKB0gZXK2xO+KdNqp55+/W8bibCpsRukFuY=
 			</data>
 		</dict>
 		<key>Modules/Reachability.swiftmodule/Project/x86_64-apple-tvos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z1Px70RHK197t6WefRUWBa4Vny8=
+			rETggcEdTNAN8S7xKyuHYTSfVAc=
 			</data>
 			<key>hash2</key>
 			<data>
-			hUtNC5+01jmWEwqRtKYTWVB2FSSHB1QX44EXv6f4rIs=
+			DREzgWIgjqxojt7b7POcaMalyPqgCTxdREwzGFus0gY=
 			</data>
 		</dict>
 		<key>Modules/Reachability.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uMBIonM+dony39x/fRc0KcAhVIg=
+			1fNgbMQlEJOOOQ3adU3ZN8lW+1U=
 			</data>
 			<key>hash2</key>
 			<data>
-			iPRdeXZKVXVwmYqQpLbM9sBRMfFTJDwaV87QPTGervg=
+			IzsPeALxBBLI/UvBbXnj4BgnXOfYylW9ftWN6hnBsYM=
 			</data>
 		</dict>
 		<key>Modules/Reachability.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xiFiv8ORWals4TDTWpDcnp4J0yg=
+			Gb9Iols8KSj2wjf2BQsRt+R2KDY=
 			</data>
 			<key>hash2</key>
 			<data>
-			f5zq3vD8Ya56RT7MCdYjsJuA2Jl+XHki+ST6WsYzaGw=
+			EMkaVQaLxDKo+hqQ0fzZHWtXVr2e0oQXNHFIGTvf8/w=
 			</data>
 		</dict>
 		<key>Modules/Reachability.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VbTFI05Bco/fWNMc1fSDppLdk7w=
+			e75YrBwzQWvpcyB82W/JyH8JB/s=
 			</data>
 			<key>hash2</key>
 			<data>
-			EAY+O5p5bFBath6iv+PbBs9cv02Du5LTP93i86APWsQ=
+			PxCYpNYqZMM/K9BXO3uGGoLegHclY84dbSiv0WU3488=
 			</data>
 		</dict>
 		<key>Modules/Reachability.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xiFiv8ORWals4TDTWpDcnp4J0yg=
+			Gb9Iols8KSj2wjf2BQsRt+R2KDY=
 			</data>
 			<key>hash2</key>
 			<data>
-			f5zq3vD8Ya56RT7MCdYjsJuA2Jl+XHki+ST6WsYzaGw=
+			EMkaVQaLxDKo+hqQ0fzZHWtXVr2e0oQXNHFIGTvf8/w=
 			</data>
 		</dict>
 		<key>Modules/Reachability.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Wjq+X0N+vAgwez6TG2nhnnLa6RQ=
+			CKcmfXrQTfubD8jnscArtXb8T5k=
 			</data>
 			<key>hash2</key>
 			<data>
-			jfSAnWOyNE7IOCTZr88bV+JHw8pTC32j1c6GfKAOuy0=
+			8nhSchdvAZrOc8M4czVvWyia9nD99Iv3kcCDYbfCsG8=
 			</data>
 		</dict>
 		<key>Modules/Reachability.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uMBIonM+dony39x/fRc0KcAhVIg=
+			1fNgbMQlEJOOOQ3adU3ZN8lW+1U=
 			</data>
 			<key>hash2</key>
 			<data>
-			iPRdeXZKVXVwmYqQpLbM9sBRMfFTJDwaV87QPTGervg=
+			IzsPeALxBBLI/UvBbXnj4BgnXOfYylW9ftWN6hnBsYM=
 			</data>
 		</dict>
 		<key>Modules/Reachability.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Phllri7imi3KbT9YOxDMu65v4Io=
+			b7oPghnS91evZ3dwPPYK68Vm6ws=
 			</data>
 			<key>hash2</key>
 			<data>
-			AynPDi0VrUM0A+rFOjyQFXyv2jKT2MyJmfJCQBcFHkA=
+			TndA/n9f2g1IDRcmGLB6D18UuGuNqQohJ7RP/+dib3c=
 			</data>
 		</dict>
 		<key>Modules/Reachability.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OPKrUGwIrBB0+GAt6l8AoDA4Tng=
+			9p2jlh9dYuOOMIondoerUPhAdkQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			55nepmkX8WudJR+3LA35rCFVPcWjJd90AOciczJ39Oo=
+			cLME8Yst1D70L8hviI5c/lg8sa6HVczfdSBl/nxOyFs=
 			</data>
 		</dict>
 		<key>Modules/Reachability.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Phllri7imi3KbT9YOxDMu65v4Io=
+			b7oPghnS91evZ3dwPPYK68Vm6ws=
 			</data>
 			<key>hash2</key>
 			<data>
-			AynPDi0VrUM0A+rFOjyQFXyv2jKT2MyJmfJCQBcFHkA=
+			TndA/n9f2g1IDRcmGLB6D18UuGuNqQohJ7RP/+dib3c=
 			</data>
 		</dict>
 		<key>Modules/Reachability.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NW3Wzp0YFEbeECxXmLTsyZO+THo=
+			ggzPXqOYsh3vqzLBGGDRxFyCQ9I=
 			</data>
 			<key>hash2</key>
 			<data>
-			k/n9J716djES4k7wglyslzMJkqS/eZJ+AGzN4qy0rWU=
+			/4PPwYKPcDABoLWCWCmWsCqzl5imSXNGfp0m7eCXVDE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
