@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'XCReachabilitySwift'
-  s.version      = '5.1.0-xc14.2-1'
+  s.version      = '5.1.0-SPM'
   s.module_name = 'Reachability'
   s.homepage     = 'https://github.com/ashleymills/Reachability.swift'
   s.authors      = {
@@ -10,9 +10,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'MIT' }
 
 # Source Info
-  s.ios.deployment_target = "8.0"
-  s.osx.deployment_target = "10.10"
-  s.tvos.deployment_target  = "9.0"
+  s.ios.deployment_target = "11.0"
   s.source       =  {
     :git => 'https://github.com/beMappy/Reachability.swift.git',
     :tag => s.version.to_s
